@@ -9,3 +9,6 @@ Front-end: 김소윤, 이경준, 금도헌
 
 ## Stack
 Node.js, Express, Typescript, JWT, mongoDB, mongoose, amazon EC2
+
+## 서비스 소개
+블로깅 주소 참고: https://heizence6626.tistory.com/3
